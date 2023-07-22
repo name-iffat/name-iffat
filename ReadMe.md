@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻Student in Degree of Computer Science<br>🏠Anywhere<br>🔭 I’m currently working on Ordering System Project<br>
+👨‍💻Student in Degree of Computer Science<br>🏠Anywhere<br>🔭 I’m currently working on FYPbr>
 
 
 ## 🌐 Socials:
