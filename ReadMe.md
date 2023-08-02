@@ -4,7 +4,7 @@
 
 ## 🌐 Socials: Click below
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iffathaikal/) 
-    <a href="https://twitter.com/intent/follow?screen_name=shields_io">
+    <a href="https://twitter.com/intent/follow?screen_name=iffathaikal1">
         <img src="https://img.shields.io/twitter/follow/iffathaikal1?style=social&logo=twitter"
             alt="follow on Twitter"></a>
 
