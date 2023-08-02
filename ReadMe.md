@@ -4,7 +4,7 @@
 
 ## 🌐 Socials: Click below
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iffathaikal/) 
-[![Twitter URL](https://img.shields.io/twitter/https://twitter.com/iffathaikal1)](https://img.shields.io/twitter/follow/:iffathaikal1
+[![Twitter URL](https://img.shields.io/twitter/follow/iffathaikal1
 )
 
 # 💻 Tech Stack:
