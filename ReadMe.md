@@ -17,4 +17,5 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+![](https://octodex.github.com/images/NUX_Octodex.gif)
 iffat-name
