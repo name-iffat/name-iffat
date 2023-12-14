@@ -1,6 +1,6 @@
 # 💫 About Me:
 👨‍💻Student in Degree of Computer Science<br>🏠Anywhere<br>🔭 I’m currently working on FYP<br>
-![Sonny and Mariel high fiving.](https://octodex.github.com/images/NUX_Octodex.gif)
+![octo](NUX_Octodex.gif)
 
 ## 🌐 Socials: Click below
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iffathaikal/) 
