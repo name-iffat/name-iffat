@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻Student in Degree of Computer Science<br>🏠Anywhere<br>🔭 I’m currently working on FYP<br>
+👨‍💻Student in Degree of Computer Science<br>🏠Anywhere<br>🔭 Field Software Engineer<br>
 
 <img src="./NUX_Octodex.gif" width="250" height="250"/>
 
